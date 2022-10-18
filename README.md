@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learn
 - 🌱 I’m currently learning C#/.Net
 - 💞️ I’m looking to collaborate on new projects about .Net
-- 📫 How to reach me @J-ordiEs
+- 📫 How to reach me https://github.com/J-ordiEs
 
 <!---
 J-ordiEs/J-ordiEs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
