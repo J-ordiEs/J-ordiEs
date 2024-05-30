@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @J-ordiEs
-- 👀 I’m interested in Learn
-- 🌱 I’m currently learning C#/.Net
-- 💞️ I’m looking to collaborate on new projects about .Net
-- 📫 How to reach me https://github.com/J-ordiEs
-
-<!---
-J-ordiEs/J-ordiEs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@jorgetmink12007/30-nites-of-code)  
+  ![@jorgetmink12007 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jorgetmink12007)
